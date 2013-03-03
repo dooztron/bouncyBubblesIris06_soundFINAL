@@ -1,0 +1,3 @@
+ -Xms64m -Xmx1024m
+bouncyBubblesIris03
+bouncyBubblesIris03.jar,core.jar,jogl-all.jar,gluegen-rt.jar,jogl-all-natives-windows-i586.jar,gluegen-rt-natives-windows-i586.jar,RXTXcomm.jar,serial.jar
